@@ -1,0 +1,24 @@
+{
+  "name": "rpi-relay-board",
+  "version": "0.1.0",
+  "description": "Micro library to control relay extension boards for the raspberry pi.",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs": "esdoc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mojoaxel/rpi-relay-board.git"
+  },
+  "author": "Alexander Wunschik <dev@wunschik.net>",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/mojoaxel/rpi-relay-board/issues"
+  },
+  "homepage": "https://github.com/mojoaxel/rpi-relay-board#readme",
+  "dependencies": {
+    "gpio": "^0.2.9"
+  },
+  "devDependencies": {}
+}
